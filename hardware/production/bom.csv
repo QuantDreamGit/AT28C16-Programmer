@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_D10.0mm_P3.50mm,1,C_Polarized,
+D1,LED_D4.0mm,1,RED LED,
+D2,LED_D4.0mm,1,YELLOW LED,
+"R3, R4",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,330,
+U1,Arduino_Nano,1,ARDUINO_NANO,
+U2,DIP-24_W15.24mm_Socket,1,28C16,
+"U4, U5",DIP-14_W7.62mm_Socket,2,74164,
